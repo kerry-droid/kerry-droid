@@ -1,34 +1,48 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">Hi 👋, I'm Kerry Opiyo</h1>
 
 <h3 align="center">
-💻 Aspiring Full Stack Software Developer | React | Python | Flask
+💻 Full Stack Software Developer | React | Python | Flask
 </h3>
 
 <p align="center">
-  Building real-world applications and growing every day 🚀
+  Building modern web applications and turning ideas into real-world solutions 🚀
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/kerry-droid">
+    <img src="https://img.shields.io/github/followers/kerry-droid?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kerry-droid&label=Profile%20Views&style=for-the-badge" />
+</p>
+
+<br/>
+
+<!-- ========================= ABOUT ME ========================= -->
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **Full Stack Software Developer** passionate about building modern, user-friendly, and scalable applications.
+I'm a passionate **Full Stack Software Developer** from Kenya 🇰🇪.
 
-* 🌱 Currently learning and improving my Full Stack Development skills
-* 💻 Interested in Web Development, APIs, Databases, and Software Engineering
-* ⚛️ Building applications with React and JavaScript
-* 🐍 Exploring Python and Flask for backend development
-* 🗄️ Learning SQL and PostgreSQL
-* 🚀 Always working on new projects and improving my skills
+I enjoy building modern, responsive, and user-friendly web applications. I am constantly improving my skills by building real-world projects and learning new technologies.
+
+- 🔭 Currently building **Full Stack Applications**
+- 🌱 Currently improving my **React, Python, Flask & PostgreSQL** skills
+- 💡 Interested in **Software Engineering, APIs, Databases & Web Development**
+- 🚀 I enjoy solving real-world problems with technology
+- 📚 Always learning and improving every day
 
 ---
+
+<!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend
@@ -37,85 +51,93 @@ I'm an aspiring **Full Stack Software Developer** passionate about building mode
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
 ---
+
+<!-- ========================= FEATURED PROJECTS ========================= -->
 
 ## 🚀 Featured Projects
 
 ### 🏦 SokoCredit
 
-A comprehensive loan management system designed for microfinance lenders and small-scale traders.
+A comprehensive **loan management system** designed for microfinance lenders and small-scale traders.
 
-**Features:**
+#### ✨ Features
 
-* Customer management
-* Loan applications
-* Loan approvals
-* Loan disbursement
-* Repayment tracking
-* Admin dashboard
-* Analytics and reports
+- 👥 Customer Management
+- 💰 Loan Applications
+- ✅ Loan Approval System
+- 💸 Loan Disbursement
+- 📊 Repayment Tracking
+- 📈 Analytics Dashboard
+- 🔐 Authentication & Protected Routes
 
-**Technologies:**
+#### 🛠️ Built With
 
-`React` `Tailwind CSS` `Python` `Flask` `PostgreSQL`
+`React` • `Tailwind CSS` • `Python` • `Flask` • `PostgreSQL`
 
 ---
 
 ### 📦 Inventory Management System
 
-A system designed to help businesses manage products, stock, and inventory efficiently.
+A modern application designed to help businesses manage products and inventory efficiently.
 
-**Features:**
+#### ✨ Features
 
-* Product management
-* Inventory tracking
-* Stock updates
-* Dashboard analytics
+- 📦 Product Management
+- 📊 Inventory Tracking
+- 🔄 Stock Updates
+- 📈 Dashboard Analytics
 
-**Technologies:**
+#### 🛠️ Built With
 
-`React` `JavaScript` `Python` `Flask`
+`React` • `JavaScript` • `Python` • `Flask`
 
 ---
 
 ### 🎬 Movie Hub
 
-A movie discovery application that allows users to explore movies and view trending and popular content.
+A movie discovery platform powered by the TMDB API.
 
-**Features:**
+#### ✨ Features
 
-* Trending movies
-* Popular movies
-* Movie search
-* Movie details
-* Watchlist
+- 🔥 Trending Movies
+- ⭐ Popular Movies
+- 🔍 Movie Search
+- 🎥 Movie Details
+- ❤️ Watchlist
 
-**Technologies:**
+#### 🛠️ Built With
 
-`React` `JavaScript` `Tailwind CSS` `TMDB API`
+`React` • `JavaScript` • `Tailwind CSS` • `TMDB API`
 
 ---
 
 ### 🏠 Nairobi Prime Homes
 
-A real estate application for browsing and managing property listings.
+A modern real estate platform for browsing and managing property listings.
 
-**Features:**
+#### ✨ Features
 
-* Property listings
-* Property search
-* Project management
-* Responsive design
+- 🏘️ Property Listings
+- 🔍 Property Search
+- 🏗️ Project Management
+- 📱 Responsive Design
 
-**Technologies:**
+#### 🛠️ Built With
 
-`React` `JavaScript` `JSON Server`
+`React` • `JavaScript` • `JSON Server`
 
 ---
 
@@ -123,76 +145,126 @@ A real estate application for browsing and managing property listings.
 
 A command-line application for managing users, projects, and tasks.
 
-**Features:**
+#### ✨ Features
 
-* User management
-* Project management
-* Task creation
-* Task updates
-* Data storage
+- 👤 User Management
+- 📁 Project Management
+- ✅ Task Creation
+- 🔄 Task Updates
+- 💾 Data Storage
 
-**Technologies:**
+#### 🛠️ Built With
 
-`Python` `OOP` `CLI` `Pytest`
+`Python` • `OOP` • `CLI` • `Pytest`
 
 ---
+
+<!-- ========================= GITHUB STATS ========================= -->
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerry-droid&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=kerry-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
+
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerry-droid&theme=tokyonight&hide_border=true" />
+
+<img
+height="180em"
+src="https://streak-stats.demolab.com?user=kerry-droid&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
 ---
+
+<!-- ========================= LANGUAGES ========================= -->
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-droid&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-droid&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
 ---
+
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=kerry-droid&theme=tokyo-night&hide_border=true"
+/>
+
+</p>
+
+---
+
+<!-- ========================= SNAKE ========================= -->
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg" />
+
+<img
+src="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg"
+/>
+
 </p>
 
 ---
+
+<!-- ========================= CURRENT GOALS ========================= -->
 
 ## 🎯 Current Goals
 
-* 🚀 Build more full-stack applications
-* 🏗️ Improve backend development skills
-* 🐍 Master Python and Flask
-* ⚛️ Build advanced React applications
-* 🗄️ Improve SQL and PostgreSQL skills
-* 🌍 Contribute to open-source projects
-* 💼 Grow as a professional Software Developer
+- 🚀 Build more production-ready Full Stack applications
+- ⚛️ Improve advanced React skills
+- 🐍 Master Python and Flask
+- 🗄️ Improve PostgreSQL and database design skills
+- 🔐 Learn authentication and authorization
+- 🌍 Contribute to Open Source
+- 💼 Grow into a professional Software Developer
 
 ---
 
-## 📫 Connect With Me
+<!-- ========================= CONNECT ========================= -->
+
+## 🤝 Connect With Me
 
 <p>
 
-💻 **GitHub:** kerry-droid
+💻 **GitHub:** [github.com/kerry-droid](https://github.com/kerry-droid)
 
-📧 **Email:** [kerryopiyo0758@gmail.com](mailto:kerryopiyo0758@gmail.com)
+📧 **Email:** kerryopiyo0758@gmail.com
 
 </p>
 
 ---
 
+<!-- ========================= FOOTER ========================= -->
+
 <p align="center">
-  ⭐️ <b>Thanks for visiting my profile!</b> ⭐️
+
+⭐️ **Thanks for visiting my profile!**
+
 </p>
 
 <p align="center">
-  🚀 Keep learning. Keep building. Keep growing.
+
+💡 *Keep Learning • Keep Building • Keep Growing* 🚀
+
 </p>
