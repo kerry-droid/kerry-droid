@@ -164,11 +164,11 @@ A command-line application for managing users, projects, and tasks.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img alt="Kerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kerry-droid&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats" />
+  <img alt="Kerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kerry-droid&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=kerry-droid&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=kerry-droid&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
@@ -188,7 +188,7 @@ A command-line application for managing users, projects, and tasks.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kerry-droid&theme=tokyo-night&hide_border=true&area=true" />
+  <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kerry-droid&theme=tokyo-night&hide_border=false&radius=15" width="95%" />
 </p>
 
 ---
@@ -198,7 +198,7 @@ A command-line application for managing users, projects, and tasks.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
