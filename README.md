@@ -163,25 +163,10 @@ A command-line application for managing users, projects, and tasks.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=kerry-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-/>
-
-</p>
-
-<br/>
-
-<p align="center">
-
-<img
-height="180em"
-src="https://streak-stats.demolab.com?user=kerry-droid&theme=tokyonight&hide_border=true"
-/>
-
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kerry-droid&show_icons=true&count_private=true&hide_border=true&title_color=00bfa5&icon_color=00bfa5&text_color=c9d1d9&bg_color=0d1117" alt="Kerry's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=kerry-droid&hide_border=true&background=0d1117&stroke=00bfa5&ring=00bfa5&fire=00bfa5&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00bfa5&sideLabels=00bfa5&dates=c9d1d9" alt="Kerry's GitHub Streak" />
+</div>
 
 ---
 
@@ -189,13 +174,9 @@ src="https://streak-stats.demolab.com?user=kerry-droid&theme=tokyonight&hide_bor
 
 ## 💻 Most Used Languages
 
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-droid&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
+<div align="center">
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerry-droid&layout=compact&hide_border=true&title_color=00bfa5&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+</div>
 
 ---
 
@@ -204,11 +185,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-droid&
 ## 📈 Contribution Activity
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=kerry-droid&theme=tokyo-night&hide_border=true"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerry-droid&theme=react-dark&hide_border=true&hide_title=false" width="95%" alt="Kerry's GitHub Activity Graph" />
 </p>
 
 ---
@@ -217,13 +194,11 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=kerry-droid&
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg"
-/>
-
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
@@ -245,7 +220,7 @@ src="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-con
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
 
 💻 **GitHub:** [github.com/kerry-droid](https://github.com/kerry-droid)
 
