@@ -41,25 +41,25 @@ I enjoy building modern, responsive, and user-friendly web applications. I am co
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,nodejs" />
 </p>
 
 ### 🗄️ Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
 ### 🔧 Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
@@ -163,10 +163,13 @@ A command-line application for managing users, projects, and tasks.
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kerry-droid&show_icons=true&count_private=true&hide_border=true&title_color=00bfa5&icon_color=00bfa5&text_color=c9d1d9&bg_color=0d1117" alt="Kerry's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=kerry-droid&hide_border=true&background=0d1117&stroke=00bfa5&ring=00bfa5&fire=00bfa5&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00bfa5&sideLabels=00bfa5&dates=c9d1d9" alt="Kerry's GitHub Streak" />
-</div>
+<p align="center">
+  <img alt="Kerry's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kerry-droid&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats" />
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com?user=kerry-droid&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -174,9 +177,9 @@ A command-line application for managing users, projects, and tasks.
 
 ## 💻 Most Used Languages
 
-<div align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerry-droid&layout=compact&hide_border=true&title_color=00bfa5&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
-</div>
+<p align="center">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-droid&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
 
 ---
 
@@ -185,7 +188,7 @@ A command-line application for managing users, projects, and tasks.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerry-droid&theme=react-dark&hide_border=true&hide_title=false" width="95%" alt="Kerry's GitHub Activity Graph" />
+  <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kerry-droid&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -194,11 +197,9 @@ A command-line application for managing users, projects, and tasks.
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<p align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kerry-droid/kerry-droid/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
