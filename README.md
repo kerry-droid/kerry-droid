@@ -225,7 +225,7 @@ A command-line application for managing users, projects, and tasks.
 
 💻 **GitHub:** [github.com/kerry-droid](https://github.com/kerry-droid)
 
-📧 **Email:** kerryopiyo0758@gmail.com
+📧 **Email:** kerryopiyo6@gmail.com
 
 </p>
 
